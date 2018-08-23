@@ -1,0 +1,9 @@
+[submodule "super-profeska-kod"]
+	path = super-profeska-kod
+	url = https://github.com/sudowarrior/super-profeska-kod.git
+[submodule "FizzBuzzEnterpriseEdition"]
+	path = FizzBuzzEnterpriseEdition
+	url = https://github.com/EnterpriseQualityCoding/FizzBuzzEnterpriseEdition.git
+[submodule "repo-na-repa"]
+	path = repo-na-repa
+	url = https://github.com/sudowarrior/repo-na-repa.git
